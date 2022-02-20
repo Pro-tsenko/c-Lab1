@@ -1,0 +1,7 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: Task3, Configuration: Debug x64 ------
+1>Task3.cpp
+1>C:\Users\Ярослав\Source\Repos\Task3\Task3.cpp(13,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+1>Task3.vcxproj -> C:\Users\Ярослав\Source\Repos\Task3\x64\Debug\Task3.exe
+1>Done building project "Task3.vcxproj".
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
